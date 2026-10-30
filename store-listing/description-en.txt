@@ -1,0 +1,5 @@
+ESP Flasher writes firmware files to supported ESP boards over USB and provides a serial monitor. Select a valid firmware file, specify its flash address and connection settings, and follow operation progress.
+
+A USB Host-capable phone, a compatible OTG adapter and a data cable are required. Your board may need to be placed in download mode manually. Connection guidance and settings are available in the app.
+
+Persian and English interfaces are supported. Compatibility with every board or USB adapter is not guaranteed. An incorrect firmware file or flash address can damage the board firmware; check the board manufacturer's instructions before starting.

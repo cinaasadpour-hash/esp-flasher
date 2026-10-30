@@ -1,0 +1,1 @@
+Flash supported ESP boards over USB and use a serial monitor.
